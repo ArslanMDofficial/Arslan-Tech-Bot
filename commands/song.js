@@ -1,3 +1,6 @@
+/* _Aralan-Tech-Hub_ Bot
+CODED BY ARSLAN-MD OFFICIAL*/
+
 const axios = require('axios');
 const yts = require('yt-search');
 const fs = require('fs');
@@ -136,3 +139,5 @@ async function songCommand(sock, chatId, message) {
 }
 
 module.exports = songCommand;
+
+/* CODED BY ARSLAN-MD OFFICIAL */
